@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1
+Decision Tree,0.721,0.477,0.555,0.513
+Random Forest,0.777,0.58,0.576,0.578
+XGBoost,0.782,0.585,0.606,0.596
